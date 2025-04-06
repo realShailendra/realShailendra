@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realshailendra" alt="realshailendra" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/realshailendra" target="blank"><img src="https://img.shields.io/twitter/follow/realshailendra?logo=twitter&style=for-the-badge" alt="realshailendra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/realshailendra" target="blank"><img src="https://img.shields.io/twitter/follow/realshailendra?logo=twitter&style=for-the-badge" alt="realShailendra7" /></a> </p>
 
 - 🔭 I’m currently working on **Real-Time ChatHub**
 
